@@ -11,6 +11,8 @@ comments: false
 
 個人簡介，暫時啥也不想寫。
 
+都翻到"关于我"页面了，说明意犹未尽呗？觉得不错就捐赠一点吧。
+
 假如本站的内容对您有所帮助的话，欢迎捐助本站，使本站为您呈现更多的精彩内容。
 <form action="https://shenghuo.alipay.com/send/payment/fill.htm" method="POST" target="_blank" accept-charset="GBK">
 	<input name="optEmail" type="hidden" value="zhhlforpay@foxmail.com" />
