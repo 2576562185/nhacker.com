@@ -4,7 +4,7 @@ title: "关于github pages的空间大小"
 keywords: ["jekyll", "github"]
 description: "github pages quota 空间"
 category: "技术"
-tags: ["jekyll"]
+tags: ["github pages"]
 ---
 {% include JB/setup %}
 
