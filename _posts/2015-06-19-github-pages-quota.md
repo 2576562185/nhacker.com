@@ -3,7 +3,7 @@ layout: post
 title: "关于github pages的空间大小"
 keywords: ["jekyll", "github"]
 description: "github pages quota 空间"
-category: "技术"
+category: "随笔"
 tags: ["github pages"]
 ---
 {% include JB/setup %}
