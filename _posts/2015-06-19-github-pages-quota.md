@@ -17,8 +17,8 @@ tags: ["github pages"]
 　　[2.1.创建GitHub帐号] [3]  
 　　但我到我的Account Settings里面去找却找不到相关内容。  
 　　综合上面几篇文章发布的时间来判断，我认为现在也就是2015年，GitHub Pages的限额为：  
-　　**没有强制限额，但建议1GB以内**
-
+　　**总空间没有强制限额，但建议1GB以内。**
+　　**单文件禁止100MB以上，建议50MB以内。**
   [1]:https://github.com/blog/353-more-disk-space-for-all
   [2]:https://help.github.com/articles/what-is-my-disk-quota/
   [3]:http://www.worldhello.net/gotgithub/02-join-github/010-account-setup.html
