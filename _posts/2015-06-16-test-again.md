@@ -12,7 +12,7 @@ tags: ["temp"]
 贴图2：  
 ![logo效果图](https://github.com/2576562185/nhacker.com/blob/gh-pages/_posts/images/logo.png?raw=true)
 
-4种代码表示方式：  
+代码表示方式：  
 
     #include<stdio.h>  
     int main(void)  
@@ -38,6 +38,7 @@ int main(void)
     return 0;  
 }
 ```
+上面这种最好用，嗯，方便还高亮。
 
 ```
 #include<stdio.h>  
@@ -47,5 +48,8 @@ int main(void)
     return 0;  
 }
 ```
+
+公式：
+$$(x+y)^2=x^2+2xy+y^2$$
 
 就这样。
