@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "jekyll+github pages搭建博客的一些容易迷惑的地方"
-keywords: ["jekyll","github"]
+keywords: ["jekyll","github pages"]
 description: "jekyll+github pages搭建博客的一些容易迷惑的地方"
 category: "技术"
 tags: ["github pages","jekyll"]

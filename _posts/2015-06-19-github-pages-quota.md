@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "关于github pages的空间大小"
-keywords: ["jekyll", "github"]
+keywords: ["jekyll", "github","github pages","quota"]
 description: "github pages quota 空间"
 category: "随笔"
 tags: ["github pages"]
