@@ -30,6 +30,8 @@ int main(void)
 }
 {% endhighlight %}
 
+这种，比较麻烦，但由于用的是liquid语法，不受markdown引擎的影响。
+
 ```c
 #include<stdio.h>  
 int main(void)  
@@ -38,7 +40,8 @@ int main(void)
     return 0;  
 }
 ```
-上面这种最好用，嗯，方便还高亮。
+上面这种最好用，嗯，方便还高亮。  
+**（可惜markdown引擎改成kramdown后失效了。）**
 
 ```
 #include<stdio.h>  
