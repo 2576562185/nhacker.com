@@ -23,6 +23,8 @@ comments: false
 	<input name="memo" type="hidden" value="捐助" />
 	<input name="pay" type="image" value="转帐" src="https://github.com/2576562185/nhacker.com/blob/gh-pages/assets/themes/twitter/img/alipay.png?raw=true" />
 </form>
+  
 
+  
 扫二维码捐助  
 ![alipay2](https://github.com/2576562185/nhacker.com/blob/gh-pages/assets/themes/twitter/img/alipay2.png?raw=true)
