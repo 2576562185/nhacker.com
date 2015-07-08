@@ -18,7 +18,7 @@ tags: ["随笔"]
   
 有人评论  
 
-{% highlight lineno %}
+{% highlight c lineno %}
 波及范围广，来不及patch～被人拿来用危害蛮大的，还有各种方便的小工具，一批菜鸟黑客可以进步了…  
 
 但大家都好激动，有的学了～  
