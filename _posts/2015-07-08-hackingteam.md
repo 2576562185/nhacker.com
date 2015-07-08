@@ -10,10 +10,11 @@ tags: ["随笔"]
 
 最近有人搞了个大新闻：  
 [人手一份核武器 - Hacking Team 泄露（开源）资料导览手册](http://drops.wooyun.org/news/6977)  
-真是嗨翻天了。  
+真是嗨翻天了:  
 ![30w+](http://pic4.zhimg.com/01fa3b6164daa608b51ea15b9db6c2f3_b.jpg)  
-
-有人评论
+  
+  
+有人评论  
 ```
 波及范围广，来不及patch～被人拿来用危害蛮大的，还有各种方便的小工具，一批菜鸟黑客可以进步了…  
 
@@ -27,14 +28,5 @@ tags: ["随笔"]
 人手一份核武器，简直跟狂欢一样。
 
 {% highlight c lineno %}
-#include<stdio.h>  
-int main(void)  
-{  
-    printf("Hello World\n");  
-    return 0;  
-}
+
 {% endhighlight %}
-
-这种，比较麻烦，但由于用的是liquid语法，不受markdown引擎的影响。
-
-就这样。
